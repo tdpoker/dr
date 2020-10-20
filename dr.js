@@ -1,6 +1,6 @@
 $(document).ready(function(){
 });
-if (document.URL.hostname = '161.97.123.66'){
+if (document.URL = 'https://161.97.123.66'){
     if(document.URL.indexOf('?content=slot')>0){
         $(document).ready(function(){
             document.title = 'Slot | QQSlot | Judi Online : DoraSlot Sultan';
