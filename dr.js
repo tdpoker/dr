@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    if (screen.width<=640){
+    if (screen.width>=640){
         $('#mobile').remove();
     }
 });
