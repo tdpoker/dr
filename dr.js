@@ -1,7 +1,4 @@
 $(document).ready(function(){
-    if (screen.width>=640){
-        $('#mobile').remove();
-    }
 });
 var hot = window.location.hostname;
 if (hot == '161.97.123.66'){
@@ -75,9 +72,9 @@ if (hot == '161.97.123.66'){
             document.title = 'Doraslot: Data Keluaran SGP | HK | Sydney | Pengeluaran Togel Online';
             $("meta[name='description']").attr('content', 'Doraslot memberikan kepuasan dalam main togel online, casino, slot. Data keluaran SGP|HK|Sydney lengkap dan terbaru. Result SGP|Pengeluaran SGP|Paito SGP hari ini.');
             $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
-            if(document.URL.length <= 22) {
-            $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', '161.97.123.66'));
-        }
+            if ($(window).width() < 960) {
+            $("LINK[media='only screen and (max-width: 640px)']").remove();
+            }
         });
     }
 }
