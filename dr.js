@@ -34,8 +34,8 @@ if (hot == '161.97.123.66'){
     }
     else if(document.URL.indexOf('?content=bukumimpi')>0){
         $(document).ready(function(){
-            document.title = 'Buku Mimpi 2D 3D 4D Lengkap Tanpa Gambar';
-            $("meta[name='description']").attr('content', 'Buku mimpi untuk yang ingin memasang angka togel 2D, 3D, 4D. Disediakan fitur pencarian untuk mempermudah walaupun tanpa menggunakan gambar. Cocok untuk yang ingin mendapatkan arti dari mimpi anda dengan mudah.');
+            document.title = 'Erek Erek | Buku Mimpi 2D 3D 4D Lengkap Tanpa Gambar';
+            $("meta[name='description']").attr('content', 'Erek erek dan buku mimpi untuk yang ingin memasang angka togel 2D, 3D, 4D. Disediakan fitur pencarian untuk mempermudah walaupun tanpa menggunakan gambar. Cocok untuk yang ingin mendapatkan arti dari mimpi anda dengan mudah.');
             $("link[rel='canonical']").attr('href', 'https://161.97.123.66/?content=bukumimpi');
         });
     }
