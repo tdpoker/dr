@@ -69,8 +69,8 @@ if (hot == '161.97.123.66'){
     }
     else {
         $(document).ready(function(){
-            document.title = 'Doraslot: Data Keluaran SGP | Singapore 4D | Pengeluaran Togel Online';
-            $("meta[name='description']").attr('content', 'Doraslot memberikan kepuasan dalam main togel online 4d, casino, slot. Data keluaran SGP|HK|Sydney lengkap dan terbaru. Result SGP|Pengeluaran SGP|Paito SGP hari ini.');
+            document.title = 'Doraslot: Slot Bersama Togel Online Terlengkap dan Terpercaya';
+            $("meta[name='description']").attr('content', 'Doraslot memberikan kepuasan dalam main slot bersama togel online 4d, dan casino. Data keluaran SGP|HK|Sydney lengkap dan terbaru. Result SGP|Pengeluaran SGP|Paito SGP hari ini.');
             $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
             if ($(window).width() < 960) {
             $("LINK[media='only screen and (max-width: 640px)']").remove();
