@@ -8,63 +8,63 @@ if (hot == '161.97.123.66'){
         $(document).ready(function(){
             document.title = 'Slot Online | Pragmatic | Sultan Play | DoraSlot | JokerGaming';
             $("meta[name='description']").attr('content', 'DoraSlot: judi online slot online dengan beragam game yang bisa dimainkan dari pragmatic play, jokergaming, habanero dan toptrendgaming. Dengan fasilitas yang lengkap dan mudah membuat anda seperti sultan dengan jackpot 777 dan 888.');
-            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/?content=slot');
+            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
         });
     }
     else if(document.URL.indexOf('?content=livegames')>0){
         $(document).ready(function(){
             document.title = 'Casino Royale Online | Safari | Pragmatic Play | Idn Live | IonCasino';
             $("meta[name='description']").attr('content', 'Main casino royale online dengan menggunakan browser pc dan safari. Rasakan kepuasan yang diberikan pragmatic play, idn live dan ioncasino untuk anda semua bersama doraslot.');
-            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/?content=livegames');
+            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
         });
     }
     else if(document.URL.indexOf('?content=tembakikan')>0){
         $(document).ready(function(){
             document.title = 'JokerGaming: Mancing, Berburu dan Tembak Ikan. Main dan Menang Hadiah Seru';
             $("meta[name='description']").attr('content', 'Jokergaming: game mancing, berburu, dan tembak ikan yang seru dan bisa langsung dimainkan online. Menang permainan seru dan dapatkan hadiahnya.');
-            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/?content=tembakikan');
+            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
         });
     }
     else if(document.URL.indexOf('?content=promosi')>0){
         $(document).ready(function(){
             document.title = 'Promosi: Freebet, Info, Bonus, FreeChip Terbaru DoraSlot';
             $("meta[name='description']").attr('content', 'Dapatkan info promosi terbaru berupa bonus, freebet, freechip. Melayani deposit dengan menggunakan saldo gopay, ovo, dana yang bisa diisi di Indomaret dan Alfamart.');
-            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/?content=promosi');
+            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
         });
     }
     else if(document.URL.indexOf('?content=bukumimpi')>0){
         $(document).ready(function(){
             document.title = 'Erek Erek | Tafsir Buku Mimpi 2D 3D 4D Lengkap Tanpa Gambar';
             $("meta[name='description']").attr('content', 'Erek erek dan buku mimpi untuk yang ingin memasang angka togel 2D, 3D, 4D. Disediakan fitur pencarian tafsir mimpi untuk mempermudah walaupun tanpa menggunakan gambar. Cocok untuk yang ingin mendapatkan arti dari mimpi anda dengan mudah.');
-            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/?content=bukumimpi');
+            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
         });
     }
     else if(document.URL.indexOf('?content=hasil&pid=SY')>0){
         $(document).ready(function(){
             document.title = 'Result Data Sydney | Pengeluaran | Keluaran';
             $("meta[name='description']").attr('content', 'Result dan hasil data keluaran togel sydney terbaru 2020. Pengeluaran angka 4D 3D 2D untuk yang ingin melihat angka yang keluar pada pasaran sydney.');
-            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/?content=hasil&pid=SY');
+            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
         });
     }
     else if(document.URL.indexOf('?content=hasil&pid=MAD')>0){
         $(document).ready(function(){
             document.title = 'Live Draw Togel Madrid | Colok Bebas | Indo CC';
             $("meta[name='description']").attr('content', 'Saksikan live draw togel madrid. terdapat pasangan colok bebas untuk pemasangan angka 2D 3D 4D pasaran madrid.');
-            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/?content=hasil&pid=MAD');
+            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
         });
     }
     else if(document.URL.indexOf('?content=hasil&pid=SG')>0){
         $(document).ready(function(){
             document.title = 'Data Result Pengeluaran Togel Singapore 4D | SGP';
             $("meta[name='description']").attr('content', 'Data dan result hasil pengeluaran togel Singapore 4D tahun 2020. Pasangkan angka SGP anda bersama dengan DoraSlot.');
-            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/?content=hasil&pid=SG');
+            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
         });
     }
     else if(document.URL.indexOf('?content=hasil&pid=HK')>0){
         $(document).ready(function(){
             document.title = 'Data Hasil Keluaran Result Togel HK | Hongkong';
             $("meta[name='description']").attr('content', 'Data hasil keluaran untuk togel hongkong. Result togel HK terbaru 2020.');
-            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/?content=hasil&pid=HK');
+            $("link[rel='canonical']").attr('href', 'https://161.97.123.66/');
         });
     }
     else {
