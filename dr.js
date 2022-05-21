@@ -90,10 +90,10 @@ if ("161.97.123.66" == hot) {
                       $("link[rel='canonical']").attr("href", "https://161.97.123.66/?content=sport");
               })
             : $(document).ready(function () {
-                  (document.title = "DoraSlot: Situs Judi Slot Online & Bandar Togel Online Terpercaya "),
+                  (document.title = "Doraslot: Situs Slot Gacor Deposit Pulsa Tanpa Potongan"),
                       $("meta[name='description']").attr(
                           "content",
-                          "Doraslot: Situs judi slot online dan juga bandar togel online terpercaya dengan deposit 20ribu dan berkesempatan memenangkan jackpot bonus slot sampai dengan puluhan juta rupiah."
+                          "Doraslot merupakan situs slot gacor online dengan deposit pulsa tanpa potongan. Minimal deposit untuk main adalah 10ribu. Slot gacor anti rungkad yang menjadi dambaan para pemain judi slot online."
                       ),
                       $("link[rel='canonical']").attr("href", "https://161.97.123.66/");
               });
@@ -204,8 +204,8 @@ if ("144.91.86.52" == hot) {
                       $("link[rel='canonical']").attr("href", "https://144.91.86.52/?content=sports");
               })
             : $(document).ready(function () {
-                  (document.title = "DoraSlot: Daftar Togel Online, Situs Judi Slot Terpercaya"),
-                      $("meta[name='description']").attr("content", "Doraslot merupakan agen togel online. Melayani daftar togel dan pemasangan angka 4D 3D 2D Colok dan masih banyak lainnya. Dora slot juga melayani pembukaan akun slot."),
+                  (document.title = "DoraSlot: Situs Slot | Slot Gacor | Togel Online 4D"),
+                      $("meta[name='description']").attr("content", "Doraslot adalah situs slot yang bisa anda main dengan game slot gacor dan togel online 4D. Dengan minimal deposit yang kecil yaitu 10ribu anda bisa main sepuasnya di situs slot resmi terpercaya Doraslot."),
                       $("meta[name='keywords']").attr("content", "togel online, agen togel online, doraslot, judi togel online, agen judi togel terpercaya"),
                       $("link[rel='canonical']").attr("href", "https://144.91.86.52/");
               });
